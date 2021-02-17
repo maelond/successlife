@@ -5,8 +5,8 @@ description: "maelond blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /successlife
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+google_analytics: 'G-RGDLEE5R8Q'
+disqus: 'success-life'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -59,5 +59,5 @@ adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
-
+ 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
